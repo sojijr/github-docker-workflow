@@ -1,4 +1,4 @@
-# Github Docker Workflow
+# GitHub Docker Workflow
 
 ## How to use
 
